@@ -38,6 +38,20 @@
   4. Child 
 
 * Authentication:
-  1. Signup
-  2. Login
-  3. Forgot Password
+  1. Signup page Link
+  2. Login 
+  3. Forgot Password Link
+
+* Dashboard:
+1. Data Visualization with 4 charts 
+  
+  - Bar/Column chart
+  - Pie/Donut chart
+  - Area chart
+  - Line chart
+  
+2. Table to Display Tabular Data
+  - Functional data table created with redux/redux-toolkit
+
+* Pages:
+  - Form
