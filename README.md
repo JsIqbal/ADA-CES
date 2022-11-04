@@ -1,4 +1,4 @@
-# Frontend Role Based Web Application Creadted with React.js
+# Frontend Role Based Web Application Created with React.js
 ------------
 
 * Live Demo Link: https://delicious-language.surge.sh/
