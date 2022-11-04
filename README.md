@@ -36,3 +36,8 @@
   3. Parent
 
   4. Child 
+
+* Authentication:
+  1. Signup
+  2. Login
+  3. Forgot Password
