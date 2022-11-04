@@ -26,3 +26,13 @@
     - "recharts": "^2.1.16",
     - "web-vitals": "^2.1.4",
     - "yup": "^0.32.11"
+
+* User Type:
+- Here we have 4 types of users:
+  1. Admin
+
+  2. Moderator
+ 
+  3. Parent
+
+  4. Child 
