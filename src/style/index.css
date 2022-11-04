@@ -1,0 +1,59 @@
+/* Start of App component */
+.app {
+    padding-top: 115px;
+    background: url('../images/pexels-johannes-plenio-1103970.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: inherit;
+    background-attachment: fixed;
+    padding-bottom: 600px;
+}
+
+.recharts-text {
+    font-size: 14px!important;
+}
+
+.recharts-wrapper {
+    margin-bottom: 20px!important;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.list {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.list a {
+    text-decoration: none;
+    padding: 5px 0px;
+    width: 100px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+thead {
+    background: #144D43;
+    color: white;
+}
+
+.description {
+    height: 100px;
+}
+
+.button {
+    width: auto!important;
+}
+
+.login-box {
+    padding: 10px 10px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    border: 1px solid #e7d8d8;
+}
+/* ------------ */
