@@ -43,15 +43,20 @@
   3. Forgot Password Link
 
 * Dashboard:
-1. Data Visualization with 4 charts 
+
+  1. Data Visualization with 4 charts :
   
   - Bar/Column chart
+  
   - Pie/Donut chart
+  
   - Area chart
+  
   - Line chart
   
-2. Table to Display Tabular Data
-  - Functional data table created with redux/redux-toolkit
+  2. Table to Display Tabular Data
+    - Functional data table created with redux/redux-toolkit
 
 * Pages:
+
   - Form
